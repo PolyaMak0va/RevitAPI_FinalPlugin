@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPI_FinalPlugin.dll"</Assembly>
+		<AddInId>82F58BD5-5EF0-48B4-878A-07B7C82BEA95</AddInId> 
+		<FullClassName>RevitAPI_FinalPlugin.Main</FullClassName>
+		<VendorId>ADSK</VendorId> 
+		<Text>Автонумерация помещений</Text> 
+	</AddIn>
+</RevitAddIns>
